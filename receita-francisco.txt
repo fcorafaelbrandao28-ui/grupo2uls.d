@@ -1,0 +1,4 @@
+açao 1: despeje a massa pronta na form untada de maneira uniforme
+açao 2: coloque no forno preaquecido e marque 40 minutos
+açao 3: espete um palito no centro do bolo apos os 40 minutos
+açao 4: retire do forno se o palito sair limpo e deixe amornar por 10 minutos
